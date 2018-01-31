@@ -10,12 +10,12 @@ $config['dev'] = [
     'uri'    => 'https://api.ote-godaddy.com/v1/',
     'key'    => '',
     'secret' => '',
-    'new_ip' => '45.55.189.222',
+    'new_ip' => '',
 ];
 
 $config['prod'] = [
     'uri'    => 'https://api.godaddy.com/v1/',
     'key'    => '',
     'secret' => '',
-    'new_ip' => '45.55.189.222',
+    'new_ip' => '',
 ];
